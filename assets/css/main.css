@@ -295,7 +295,7 @@ section {
 /*--------------------------------------------------------------
 # Desktop Navigation
 --------------------------------------------------------------*/
-@media (min-width: 1280px) {
+@media (min-width: 720px) {
   .navbar {
     padding: 0;
   }
@@ -433,7 +433,7 @@ section {
   }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 768px) {
 
   .mobile-nav-show,
   .mobile-nav-hide {
@@ -454,7 +454,7 @@ section {
 /*--------------------------------------------------------------
 # Mobile Navigation
 --------------------------------------------------------------*/
-@media (max-width: 1279px) {
+@media (max-width: 768px) {
   .header{
     display: block;
   }
